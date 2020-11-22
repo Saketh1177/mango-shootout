@@ -1,1 +1,2 @@
-# mango-shootout
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
